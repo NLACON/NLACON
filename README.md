@@ -4,8 +4,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NLACON/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/NLACON/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/NLACON/ticket-lifecycle)
+  - [osTicket: Post-Installation & Ticket Lifestyle](https://github.com/NLACON/post-install-config)
+  
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/NLACON/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NLACON/azure-network-protocols)
