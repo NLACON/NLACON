@@ -7,8 +7,7 @@
   - [osTicket: Post-Installation & Ticket Lifestyle](https://github.com/NLACON/post-install-config)
   
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/NLACON/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NLACON/azure-network-protocols)
+  - [Create Resource Group & Virtual Machines in Azure](https://github.com/NLACON/rg-vm-ad)
 
 <h2>🤳Connect with me:</h2>
 
