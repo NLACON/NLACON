@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NLACON/osticket-prereqs)
-  - [osTicket: Post-Installation & Ticket Lifestyle](https://github.com/NLACON/post-install-config)
+  - [osTicket: Post-Installation & Ticket Lifecycle](https://github.com/NLACON/post-install-config)
   
 - <b>Microsoft Azure</b>
   - [Create Resource Group & Virtual Machines in Azure](https://github.com/NLACON/rg-vm-ad)
